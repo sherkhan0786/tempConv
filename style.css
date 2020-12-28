@@ -1,0 +1,46 @@
+body{
+    background: url(temp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#inp{
+    padding: 4px;
+    font-size: 15px;
+    border: 1px lightgrey;
+    background: floralwhite;
+}
+
+.btn{
+    font-size: 16px;
+    padding: 8px 15px;
+    cursor: pointer;
+    background:#1b2e97;
+    border-radius: 7px;
+    color: white;
+    border: none;
+}
+
+
+form{
+    /* text-align: center; */
+    border: 2px solid black;
+    padding: 50px;
+    display: table-cell;
+    position: relative;
+    left: 400px;
+    top: 150px;
+    background: #0000008f;
+    color: white;
+}
+
+p{
+    position: relative;
+    left: 600px;
+    bottom: 105px;
+    background: steelblue;
+    display: inline;
+    padding: 15px;
+    color: white;
+    font-size: 22px;
+}
